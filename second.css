@@ -37,6 +37,11 @@ section {
     border-radius: 5px;
 }
 
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 footer {
     text-align: center;
     padding: 20px;
